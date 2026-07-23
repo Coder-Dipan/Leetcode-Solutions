@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
